@@ -1,0 +1,13 @@
+// 定义task
+// gradle -q hello
+task hello {
+    doLast {
+        println 'Hello World!'
+    }
+}
+
+// 快捷的任务定义
+//  gradle -q hello_task
+task hello_task << {
+    println 'Hello World Task!'
+}
