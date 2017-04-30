@@ -5,3 +5,4 @@
 
 # 其他资料
 + [Gradle使用国内的maven仓库](http://blog.csdn.net/luman1991/article/details/55510986)
++ [intellij idea中刷新gradle无效 ](http://blog.csdn.net/wulong710/article/details/50610768)
